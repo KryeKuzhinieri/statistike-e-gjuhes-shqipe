@@ -1,6 +1,6 @@
 # Statistikë Gjuhësore
 
-Synimi i këtij projekti është të nxjerr në pah elemente gjuhësore të alfabetit të gjuhës shqipe. Kodi i mësipërm llogaritë këto të dhëna:
+Synimi i këtij projekti është të nxjerr në pah elemente gjuhësore të alfabetit të gjuhës shqipe. Kodi i mësipërm llogarit këto të dhëna:
 1. Përqindjen e shkronjave më të përdorura të gjuhës shqipe,
    1. Përqindjen e plotë - Numrin e shfaqjeve të një shkronjeje në korpusin e paraqitur.
    2. Përqindjen e pjesshme - Numrin e paraqitjeve të një zanoreje/bashkëtingëlloreje në krahasim me zanoret/bashkëtingëlloret e tjera në korpusin e dhënë.
