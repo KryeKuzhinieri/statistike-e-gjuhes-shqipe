@@ -1,6 +1,6 @@
 # Statistikë Gjuhësore
 
-Arikulli i plotë: https://medium.com/@eness.188/statistik%C3%AB-e-germave-t%C3%AB-shqipes-810d9b3873a4
+Artikulli i plotë: https://medium.com/@eness.188/statistik%C3%AB-e-germave-t%C3%AB-shqipes-810d9b3873a4
 
 Synimi i këtij projekti është të nxjerr në pah elemente gjuhësore të alfabetit të gjuhës shqipe. Kodi i mësipërm llogarit këto të dhëna:
 1. Përqindjen e shkronjave më të përdorura të gjuhës shqipe,
